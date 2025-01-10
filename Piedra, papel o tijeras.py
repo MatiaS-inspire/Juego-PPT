@@ -16,13 +16,4 @@ elif Condicion1 or Condicion2 or Condicion3:
         print ("¡Ha ganado!", Nombre1)
 else:
         print ("¡Ha ganado!", Nombre2)
-
-
-# Cuando hacemos una mejor en el código para que sea más legible o más eficiente con menos líneas de código por ejemplo,
-# esto se conoce como refactorización
-
-
-
-# Se puede colocar el nómbre en la segunda solicitud - ok
-# Lo ingresado por el usuario podría ser lowercase
-# Se puede hacer más de un turno con el bucle while
+ 
